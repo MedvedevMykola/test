@@ -3,9 +3,9 @@
 
 #include "stdafx.h"
 
-
+//sfgtsdidyfgsdioyfhsdifsdfospifphg0gpe
 int main()
 {
-    return 0;
+    
 }
 
